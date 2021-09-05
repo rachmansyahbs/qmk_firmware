@@ -1,0 +1,8 @@
+#pragma once
+
+#define TAPPING_TERM 200
+#define IGNORE_MOD_TAP_INTERRUPT
+
+#define VIAL_KEYBOARD_UID {0x99, 0x18, 0xB4, 0x63, 0xD3, 0x61, 0x52, 0x20}
+#define VIAL_TAP_DANCE_ENTRIES 4
+#define VIAL_COMBO_ENTRIES 4
